@@ -35,7 +35,7 @@
 - Unit-тесты (pytest)
 
 ### Для 7Tech:
-- Django REST Framework (углубленно)
+- Django REST Framework (углубленно) и FastAPI
 - PostgreSQL (оптимизация)
 - Redis (кэширование)
 - Микросервисная архитектура
