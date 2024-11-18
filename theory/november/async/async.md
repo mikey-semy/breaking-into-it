@@ -182,7 +182,7 @@ async def ascrape_pause(self,
 
 3. И сама функция `ascrape_page` включает в себя await `self.ascrape_pause()`
 
-4. Функция, которая измеряется с помощью таймера
+4. Функция, которая измеряется с помощью [таймера](https://gist.github.com/mikey-semy/30d78d781d42cc5179ca5a654480f0ca)
 
 ```python
 @timer
