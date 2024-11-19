@@ -2,7 +2,7 @@
 
 ## Мега-проект для портфолио
 
-- [ ] FastAPI + PostgreSQL + SQLAlchemy
+- [x] FastAPI + PostgreSQL + SQLAlchemy
 - [ ] Асинхронные ручки
 - [ ] Swagger документация
 - [ ] JWT авторизация

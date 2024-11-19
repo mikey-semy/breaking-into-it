@@ -1,0 +1,4 @@
+- [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [concurrent.futures (ProcessPoolExecutor, ThreadPoolExecutor)](https://docs.python.org/3/library/concurrent.futures.html)
+- [aiohttp](https://docs.aiohttp.org/en/stable/)
+- [functools](https://docs.python.org/3/library/functools.html)
